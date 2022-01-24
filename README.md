@@ -1,4 +1,4 @@
-Hello, I am Chamodh Iduranga!
+Hello, I am Chamodh Iduranga! 👋
 
 
 - 📚 I’m a Software Enginnering Undergraduate at SLIIT
